@@ -14,8 +14,8 @@ To get started, clone the repository and install the required dependencies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone (https://github.com/Noor-Fatima-Afzal/Flask-APIs)](https://github.com/Noor-Fatima-Afzal/Flask-APIs.git)
+cd Flask-APIs
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
